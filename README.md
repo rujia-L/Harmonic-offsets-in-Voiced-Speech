@@ -83,14 +83,10 @@ Notebook: `Harmonic offset distribution difference analysis.ipynb`
    - `delta_n1_Exploratory modeling.ipynb`
    - `Harmonic offset distribution difference analysis.ipynb`
 
-> Note: If the original audio data cannot be redistributed, include a `data/README.md` explaining how to obtain it,
-> and/or provide a small synthetic/sample dataset that matches the expected schema.
 
 ## Notes
 - Frames/harmonics with missing or unreliable peak estimates should be flagged/excluded before analyses requiring complete Δ1–Δ6.
-- For reproducibility, consider adding:
-  - `requirements.txt` / `environment.yml` (Python)
-  - a MATLAB `startup.m` or a short “dependencies” section
+
 
 ## References
 - Elvander & Jakobsson (2020), defining fundamental frequency for speech signals
