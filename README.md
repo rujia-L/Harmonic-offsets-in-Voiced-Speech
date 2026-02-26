@@ -68,8 +68,7 @@ Notebook: `Harmonic offset distribution difference analysis.ipynb`
   Speaker-independent modeling of Δ1 using acoustic features.
 - `Harmonic offset distribution difference analysis.ipynb`  
   Between-speaker distribution tests on Δ (6D).
-- `report/` (recommended)  
-  Put the final report PDF here (details, figures, diagnostics).
+- `report/`
 
 ## How to Run (suggested workflow)
 1) **Frame extraction**  
